@@ -1,6 +1,6 @@
 This is a Google Places Autocompelte Material UI project bootstrapped with [`vite`](https://github.com/vitejs/vite).
 
-Library used to fetch places from google - ['use-places-autocomplete'](https://github.com/wellyshen/use-places-autocomplete)
+Library used to fetch places from google - [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete)
 
 ## Getting Started
 
