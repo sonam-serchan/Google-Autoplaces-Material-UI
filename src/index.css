@@ -1,0 +1,10 @@
+:root {
+  background-color: #f5f1f1;
+}
+
+body {
+  padding: 100px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
