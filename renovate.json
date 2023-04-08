@@ -3,6 +3,16 @@
   "extends": [
     "config:base"
   ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor"],
+      "enabled": true
+    },
+    {
+      "matchUpdateTypes": ["patch"],
+      "enabled": false
+    }
+  ],
   "schedule": [
     "every weekend"
   ]
